@@ -12,7 +12,7 @@ perguntas = {
         },
     'Pergunta 2': {
         'pergunta': 'Em Nanatsu No Taizai: Qual personagem tem desenhado um porco no pescoço?','respostas': {
-            'a': 'Melin',
+            'a': 'Merlin',
             'b': 'Ban',
             'c': 'Diane',}, 
             'resposta_certa': 'a',
@@ -25,13 +25,54 @@ perguntas = {
             'resposta_certa': 'b',
     },
     'Pergunta 4': {
-        'pergunta': 'Em Nanatsu No Taizai: Qual personagem tem desenhado um porco no pescoço?','respostas': {
-            'a': 'Melin',
-            'b': 'Ban',
-            'c': 'Diane',}, 
+        'pergunta': 'Em Black Clover: O que reside na quinta folha do trevo no livro?','respostas': {
+            'a': 'Dêmonio',
+            'b': 'Mal Presságio',
+            'c': 'Elfo',}, 
             'resposta_certa': 'a',
         },
-
+    'Pergunta 5': {
+        'pergunta': 'Em Demon Slayer: Qual o nome da 6ºLua inferior?','respostas': {
+            'a': 'Akaza',
+            'b': 'Uzui',
+            'c': 'Rui',}, 
+            'resposta_certa': 'c',
+        },
+     'Pergunta 6': {
+        'pergunta': 'Em Tate no Yusha: Qual o nome do heroi da lança?','respostas': {
+            'a': 'Motoyasu',
+            'b': 'Naofumi',
+            'c': 'Itsuki',}, 
+            'resposta_certa': 'a',
+        },
+     'Pergunta 7': {
+        'pergunta': 'Em Dr. Stone: Qual o nome da villa em que Senku vive?','respostas': {
+            'a': 'Asagiri',
+            'b': 'Ishigami',
+            'c': 'Hokage',}, 
+            'resposta_certa': 'b',
+        },
+     'Pergunta 8': {
+        'pergunta': 'Em Black CLover: Qual o Esquadrão mais poderoso?','respostas': {
+            'a': 'Alvorecer Dourado',
+            'b': 'Touros Negros',
+            'c': 'Rosa Azul',}, 
+            'resposta_certa': 'a',
+        },
+     'Pergunta 9': {
+        'pergunta': 'Em Jujutsu Kaisen: Quem são os companheiros de Itadori?','respostas': {
+            'a': 'Mahito e Hanami',
+            'b': 'Todou e Satoru',}, 
+            'c': 'kugisaki e Fujiguro',
+            'resposta_certa': 'c',
+        },
+     'Pergunta 10': {
+        'pergunta': 'Em Jojo bizarre adventures... Giovanne giorno é:','respostas': {
+            'a': 'ladrão',
+            'b': 'Dançarino',}, 
+            'c': 'Espião',
+            'resposta_certa': 'a',
+        },
     }
 
 for pk , pv in perguntas.items():
